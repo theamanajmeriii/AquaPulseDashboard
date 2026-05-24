@@ -9,7 +9,7 @@ Responsive layouts
 Grid & Flexbox concepts
 Modern UI styling
 
-![Image Alt](AquaDashboard/Screenshot 2026-05-24 142200.png)
+![Image Alt](https://github.com/theamanajmeriii/AquaPulseDashboard/blob/5fe0ee47a5301716b6ce87a9eb2715c9f518b4be/AquaDashboard/Screenshot%202026-05-24%20142200.png)
 ![Image Alt](AquaDashboard/Screenshot 2026-05-24 142200.png)
 Environment Setup:
 1. Initialize npm 
